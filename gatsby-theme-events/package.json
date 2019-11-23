@@ -1,0 +1,32 @@
+{
+  "name": "@mhamel06/gatsby-theme-events",
+  "version": "1.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "gastby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.18.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.18.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@mdx-js/react": "^1.5.1",
+    "gatsby-plugin-manifest": "^2.2.29",
+    "gatsby-plugin-offline": "^3.0.22",
+    "gatsby-plugin-theme-ui": "^0.2.6",
+    "gatsby-source-filesystem": "^2.1.38",
+    "gatsby-transformer-yaml": "^2.2.17",
+    "theme-ui": "^0.2.49"
+  }
+}
